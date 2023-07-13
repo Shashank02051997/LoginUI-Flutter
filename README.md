@@ -20,10 +20,13 @@ Featuring the delightful Rive bear animation, this project offers a seamless and
 
 **Please click the image below to enlarge.**
 
+<img src="https://github.com/Shashank02051997/LoginUI-Flutter/assets/20399094/69b1887c-0cd2-4100-9e64-190405630cb8" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/LoginUI-Flutter/assets/20399094/c74bc228-b54c-45b2-9d66-0d6897e3c5e5" height="600" width="300" hspace="40">
+
+<img src="https://github.com/Shashank02051997/LoginUI-Flutter/assets/20399094/8c3ee176-6e39-41a4-9659-51ec8198b89d" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/LoginUI-Flutter/assets/20399094/754f1720-4e20-49c5-ae21-1fc385496350" height="600" width="300" hspace="40">
 
 ## App Demo
 
-
+https://github.com/Shashank02051997/LoginUI-Flutter/assets/20399094/c6744c3a-0b6d-4942-a14d-02c077fd2fdf
 
 ## ✨ Requirements
 
