@@ -22,7 +22,7 @@ class LoginPage extends StatelessWidget {
                   clipper: CurvedClipper(),
                   child: Container(
                     color: ThemeColor.primary,
-                    height: 500,
+                    height: 550,
                   ),
                 ),
                 Column(
