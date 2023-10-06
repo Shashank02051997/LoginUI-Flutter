@@ -28,6 +28,11 @@ Featuring the delightful Rive bear animation, this project offers a seamless and
 
 https://github.com/Shashank02051997/LoginUI-Flutter/assets/20399094/c6744c3a-0b6d-4942-a14d-02c077fd2fdf
 
+
+https://github.com/Shashank02051997/LoginUI-Flutter/assets/20399094/5543ab29-6e35-40a6-bcf2-f524c52323ac
+
+
+
 ## ✨ Requirements
 
 * Any Operating System (ie. MacOS X, Linux, Windows)
